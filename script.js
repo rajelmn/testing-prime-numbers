@@ -1,3 +1,4 @@
+alert("hi brahim");
 function pow(x, n) {
     let result = 1;
  
